@@ -1,2 +1,2 @@
 # neuroinformatics-2024
-Materials for a visual reactive programming course at SWC
+Support materials for the Visual Reactive Programming course
