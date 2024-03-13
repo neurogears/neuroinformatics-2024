@@ -1,6 +1,11 @@
+.vs
+.venv
 _site
 *.dvi
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 Gemfile.lock
+*.exe
+*.exe.*
+Packages
